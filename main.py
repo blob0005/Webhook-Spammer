@@ -2,7 +2,7 @@ import time
 try:
     import os
     from os import system
-    system("title " + "Webhook Spammer")
+    system("title " + "Webhook Spammer,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 
